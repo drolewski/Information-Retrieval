@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1YkgNB1t9L51Gx5qjGv39b9kgR0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -14,11 +21,50 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/zadanie1" />
+    <property name="last.edited.regexp" value="(725) 691-5622" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\drole\POLITECHNIKA\pp\SEMESTR VI\ZI\Lab2\zadanie1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\drole\POLITECHNIKA\pp\SEMESTR VI\ZI\Lab2\zadanie1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise2">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exercise1" />
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exercise2" />
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Lab2" />
@@ -29,6 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583491963660</updated>
-      <workItem from="1583491965402" duration="74000" />
+      <workItem from="1583492040555" duration="6067000" />
+      <workItem from="1583506319177" duration="9756000" />
     </task>
     <servers />
   </component>
@@ -48,9 +101,57 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583492037768">
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1583492163417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583492037768" />
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583492163417" />
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom" timestamp="1583516476552">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476552" />
+    <state width="1877" height="392" key="GridCell.Tab.0.center" timestamp="1583516476552">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476552" />
+    <state width="1877" height="392" key="GridCell.Tab.0.left" timestamp="1583516476552">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476552" />
+    <state width="1877" height="392" key="GridCell.Tab.0.right" timestamp="1583516476552">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476552" />
+    <state width="1877" height="392" key="GridCell.Tab.1.bottom" timestamp="1583516476553">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476553" />
+    <state width="1877" height="392" key="GridCell.Tab.1.center" timestamp="1583516476553">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476553" />
+    <state width="1877" height="392" key="GridCell.Tab.1.left" timestamp="1583516476552">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476552" />
+    <state width="1877" height="392" key="GridCell.Tab.1.right" timestamp="1583516476553">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583503063325" />
+    <state width="1877" height="392" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583516476553" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1583492178085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583492178085" />
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583507294630">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583507294630" />
   </component>
 </project>
