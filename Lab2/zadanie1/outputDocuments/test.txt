@@ -1,0 +1,9 @@
+Name: test.docx
+Language: fr
+Creator: 
+Creation date: 2020-03-06
+Last modification: 2020-03-06
+MIME type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+test file contents
+
