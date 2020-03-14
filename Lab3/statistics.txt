@@ -1,0 +1,5 @@
+Movie: 12 Angry Men
+Sentences: 5
+Tokens: 180
+Stemmed forms (unique): 117
+Words from a dictionary (unique): 0
