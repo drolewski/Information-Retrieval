@@ -105,10 +105,24 @@ public class Exercise1 {
          * (548) 257-0883
          * (176) 544-9317
          *
-         * Numery znalezione jednak błędne, mają przesunięte wartości numerów kierunkowych o 1 w prawo np.
-         * dla numeru: 2041812298
-         * Wydaje nam się że błąd przetwarzania może wynikać w faktu że numery z początkiem 1,2,5,9
-         * są zabronione jako numery kierunkowy (***)
+         * Numery niepoprawne:
+         *  poprawny -> znaleziony przez Tika
+         * ===================================
+         * 204/181/2298 -> 8122981181
+         * #814#2693192 -> 4269319211
+         * 957/115/9173 -> 7115917315
+         * /123/5045237 -> 3504523701
+         * 445/151/2278 -> 4515122781
+         * /129/7121453 -> 9712145310
+         * /107/4548772 -> 7454877202
+         * #274#2648914 -> 7426489141
+         * /112/6740391 -> 2674039117
+         * Wg. North American Numbering Plan numer musi mieć postać yxx-yxx-xxxx
+         * Gdzie x to dowolna cyfra z zakresu <0,9>, a y to cyfra z zakresu <2,9>
+         * niepoprawne kody oznaczyliśmy powyżej slashami, np. /107/
+         * kody znaczone hashami, tak jak #274# to numery kierunkowe, które nie istnieją/ nie są jeszcze w użyciu w NANP
+         *Apache Tika pomijał w numerach zawierających te kody cyfry tak długo, aż nie uzyskiwał poprawnych numerów na początku, po czym uzupełnił sobie brakujące pozycje.
+         *
          * */
         return new LinkedList<>(results);
     }
